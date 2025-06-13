@@ -1,0 +1,23 @@
+        .service-img {
+            width: 14rem;
+            height: 13rem;
+            margin-bottom: 20px;
+            margin-top: 20px;
+    }
+        section {
+            scroll-margin-top: 80px;
+    }
+
+    /* Custom css */
+        html,body {
+            height: 100%;
+    }
+
+        .form-signin {
+            max-width: 330px;
+            padding: 1rem;
+    }
+
+        .form-signin .form-floating:focus-within {
+            z-index: 2;
+    }
